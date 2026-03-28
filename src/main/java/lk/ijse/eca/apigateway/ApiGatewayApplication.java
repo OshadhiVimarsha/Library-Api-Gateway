@@ -1,4 +1,4 @@
-package lk.ijse.apigateway;
+package lk.ijse.eca.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
